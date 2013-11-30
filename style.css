@@ -1,0 +1,15 @@
+body
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify ;
+
+    font-family: 'Open Sans', sans-serif;
+
+    width: 45em;
+}
+
+h1, h3
+{
+    text-align: center;
+}
